@@ -589,4 +589,5 @@ function Swipe(container, options) {
       }
     })( window.jQuery || window.Zepto )
   }
+  return Swipe;
 }));
